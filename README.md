@@ -9,6 +9,10 @@
 	Open forecast.html in any web browser (tested in chrome on mac)
 
 
+## Known Issues
+
+If you are going to run this on your own desktop you will need to replace the google maps api key with your own. This key is currently restricted to my local fie system and github domain.
+
 ## Features
 
 * My Location to get the weather at your current location
