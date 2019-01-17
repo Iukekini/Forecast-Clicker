@@ -1,13 +1,8 @@
 # Forecast-Clicker
 
-[Forecast Clicker Demo](https://iukekini.github.io/Forecast-Clicker)
-
-
 ## To Run
 
-	Clone Repo
-	Open forecast.html in any web browser (tested in chrome on mac)
-
+Page can be view [here](https://iukekini.github.io/Forecast-Clicker)
 
 ## Known Issues
 
