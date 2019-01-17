@@ -2,7 +2,7 @@
 
 ## To Run
 
-	Open forecast.html in any web browsers (tested in chrome on mac)
+	Open forecast.html in any web browser (tested in chrome on mac)
 
 
 ## Features
@@ -19,14 +19,14 @@
 The "My Location" button can be a little slow the first time you click it. A little loading screen could be added here so that the user doesn't this the application stalled. 
 
 
-#### 3rd Party References
+### 3rd Party References
 * Bootstrap 4
 * Jquery
 * Awesome Font Icons 
 * Google MAPS API
 * Open Weather Map
 
-# Inital Instructions
+## Inital Instructions
 Your assignment is to create an app that displays a map.  When you click on the map the application uses
 The latitude and longitude of the location of the mouse click to query a webservice to get local weather
 information and display that information on the page.  You can use the resources to help you:
