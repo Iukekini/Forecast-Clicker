@@ -6,7 +6,7 @@ Page can be view [here](https://iukekini.github.io/Forecast-Clicker)
 
 ## Known Issues
 
-If you are going to run this on your own desktop you will need to replace the google maps api key with your own. This key is currently restricted to my local fie system and github domain.
+The google maps key is currently restricted to my github domain and local file system. You should be able to run this locally but if you encounter any issues let me know. 
 
 ## Features
 
